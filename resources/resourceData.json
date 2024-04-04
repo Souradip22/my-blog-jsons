@@ -1,85 +1,73 @@
-[{
-  "utilites": [
+[
     {
-      "title": "Other excision of soft tissue",
-      "link": "https://xing.com/dui.jpg?diam=arcu&vitae=libero&quam=rutrum&suspendisse=ac&potenti=lobortis&nullam=vel&porttitor=dapibus&lacus=at&at=diam&turpis=nam&donec=tristique",
-      "description": "Hair transplant"
+        "utilites": [
+            {
+                "title": "Background Remover ",
+                "link": "https://www.experte.com/background-remover",
+                "description": "Online Background Remover: Free & Without Signup"
+            },
+            {
+                "title": "TailwindCSS Snippets",
+                "link": "https://snippets.alexandru.so/",
+                "description": "Hover effect using tailwind css"
+            },
+            {
+                "title": "Beautiful Mockups",
+                "link": "https://shots.so/",
+                "description": "Best mobile and web mockups"
+            }
+        ]
     },
     {
-      "title": "Continent ileostomy",
-      "link": "https://reddit.com/consequat/lectus/in/est/risus/auctor/sed.aspx?diam=neque&erat=vestibulum&fermentum=eget&justo=vulputate&nec=ut&condimentum=ultrices&neque=vel&sapien=augue&placerat=vestibulum&ante=ante&nulla=ipsum&justo=primis&aliquam=in&quis=faucibus&turpis=orci&eget=luctus&elit=et&sodales=ultrices&scelerisque=posuere&mauris=cubilia&sit=curae&amet=donec&eros=pharetra&suspendisse=magna&accumsan=vestibulum&tortor=aliquet&quis=ultrices&turpis=erat&sed=tortor&ante=sollicitudin&vivamus=mi&tortor=sit&duis=amet&mattis=lobortis&egestas=sapien&metus=sapien&aenean=non&fermentum=mi&donec=integer&ut=ac&mauris=neque&eget=duis&massa=bibendum&tempor=morbi&convallis=non&nulla=quam&neque=nec&libero=dui&convallis=luctus&eget=rutrum",
-      "description": "Probing of salivary duct"
+        "everyday use": [
+            {
+                "title": "Mockaroo",
+                "link": "https://www.mockaroo.com/",
+                "description": "Mock your back-end API and start coding your UI today."
+            }
+        ]
     },
     {
-      "title": "Radical dissection of thoracic structures",
-      "link": "http://tripadvisor.com/sit/amet/eleifend/pede.aspx?eu=amet&tincidunt=erat&in=nulla&leo=tempus&maecenas=vivamus&pulvinar=in&lobortis=felis&est=eu&phasellus=sapien&sit=cursus&amet=vestibulum&erat=proin&nulla=eu&tempus=mi&vivamus=nulla&in=ac&felis=enim&eu=in&sapien=tempor",
-      "description": "Extended ophthalmologic work-up"
+        "productivity": [
+            {
+                "title": "Chat GPT",
+                "link": "https://chat.openai.com/",
+                "description": "The AI tool can answer questions and assist you with tasks"
+            },
+            {
+                "title": "Notion",
+                "link": "https://www.notion.so/",
+                "description": "A popular productivity and collaboration platform"
+            }
+        ]
     },
     {
-      "title": "Dilation of intestine",
-      "link": "https://fastcompany.com/nec/nisi.xml?odio=dolor&cras=quis&mi=odio&pede=consequat&malesuada=varius&in=integer&imperdiet=ac&et=leo&commodo=pellentesque&vulputate=ultrices&justo=mattis&in=odio&blandit=donec&ultrices=vitae&enim=nisi&lorem=nam&ipsum=ultrices",
-      "description": "Sequestrectomy, unspecified site"
-    },
-    {
-      "title": "Microscopic examination of specimen from kidney, ureter, perirenal and periureteral tissue, culture and sensitivity",
-      "link": "http://theglobeandmail.com/commodo/placerat/praesent/blandit/nam.png?pede=et&posuere=ultrices&nonummy=posuere&integer=cubilia&non=curae&velit=nulla&donec=dapibus&diam=dolor&neque=vel&vestibulum=est&eget=donec&vulputate=odio&ut=justo&ultrices=sollicitudin&vel=ut&augue=suscipit&vestibulum=a&ante=feugiat&ipsum=et&primis=eros&in=vestibulum&faucibus=ac&orci=est&luctus=lacinia&et=nisi&ultrices=venenatis&posuere=tristique&cubilia=fusce&curae=congue&donec=diam",
-      "description": "Irrigation of wound catheter"
+        "useful blogs": [
+            {
+                "title": "Manu Arora",
+                "link": "https://manuarora.in/",
+                "description": "Best for nextjs and tailwind css components"
+            },
+            {
+                "title": "Dave Gray",
+                "link": "https://www.davegray.codes/",
+                "description": "Followed him for Nextjs related stuff"
+            },
+            {
+                "title": "PETER LUNCH",
+                "link": "https://www.peterlunch.com/",
+                "description": "Nice and easy blogs on frontend topics"
+            },
+            {
+                "title": "Lee Robinson",
+                "link": "https://leerob.io/",
+                "description": "VP of Product at Vercel"
+            },
+            {
+                "title": "Joshua Comeau",
+                "link": "https://www.joshwcomeau.com/",
+                "description": "Great atricles related to frontend technologies"
+            }
+        ]
     }
-  ]
-}, {
-  "everyday use": [
-    {
-      "title": "Suprapubic sling operation",
-      "link": "https://miitbeian.gov.cn/adipiscing/molestie/hendrerit/at/vulputate.js?eros=in&viverra=hac&eget=habitasse&congue=platea&eget=dictumst&semper=morbi&rutrum=vestibulum&nulla=velit&nunc=id&purus=pretium&phasellus=iaculis&in=diam&felis=erat&donec=fermentum&semper=justo&sapien=nec&a=condimentum&libero=neque&nam=sapien&dui=placerat&proin=ante&leo=nulla&odio=justo&porttitor=aliquam&id=quis&consequat=turpis&in=eget&consequat=elit&ut=sodales&nulla=scelerisque&sed=mauris&accumsan=sit&felis=amet&ut=eros&at=suspendisse&dolor=accumsan&quis=tortor&odio=quis&consequat=turpis&varius=sed&integer=ante&ac=vivamus&leo=tortor&pellentesque=duis&ultrices=mattis&mattis=egestas&odio=metus&donec=aenean&vitae=fermentum&nisi=donec&nam=ut&ultrices=mauris&libero=eget&non=massa&mattis=tempor&pulvinar=convallis&nulla=nulla&pede=neque&ullamcorper=libero&augue=convallis&a=eget&suscipit=eleifend&nulla=luctus&elit=ultricies",
-      "description": "Repair of rupture of eyeball"
-    },
-    {
-      "title": "Other excision of joint, knee",
-      "link": "http://wordpress.com/sagittis/sapien/cum/sociis.jsp?ac=non&nibh=velit&fusce=nec&lacus=nisi&purus=vulputate&aliquet=nonummy&at=maecenas&feugiat=tincidunt&non=lacus&pretium=at&quis=velit&lectus=vivamus&suspendisse=vel&potenti=nulla&in=eget&eleifend=eros&quam=elementum&a=pellentesque&odio=quisque&in=porta&hac=volutpat&habitasse=erat&platea=quisque&dictumst=erat&maecenas=eros&ut=viverra&massa=eget&quis=congue&augue=eget&luctus=semper&tincidunt=rutrum&nulla=nulla&mollis=nunc&molestie=purus&lorem=phasellus&quisque=in&ut=felis&erat=donec&curabitur=semper&gravida=sapien&nisi=a&at=libero&nibh=nam&in=dui&hac=proin&habitasse=leo&platea=odio&dictumst=porttitor&aliquam=id&augue=consequat&quam=in&sollicitudin=consequat&vitae=ut&consectetuer=nulla&eget=sed&rutrum=accumsan&at=felis&lorem=ut&integer=at&tincidunt=dolor&ante=quis&vel=odio&ipsum=consequat&praesent=varius&blandit=integer&lacinia=ac&erat=leo&vestibulum=pellentesque&sed=ultrices&magna=mattis&at=odio&nunc=donec&commodo=vitae&placerat=nisi&praesent=nam&blandit=ultrices&nam=libero&nulla=non&integer=mattis",
-      "description": "Creation of cutaneoperitoneal fistula"
-    },
-    {
-      "title": "Other repair or plastic operations on bone, humerus",
-      "link": "https://topsy.com/faucibus/orci/luctus/et.aspx?non=duis&mi=consequat&integer=dui&ac=nec&neque=nisi&duis=volutpat&bibendum=eleifend&morbi=donec&non=ut&quam=dolor&nec=morbi&dui=vel&luctus=lectus&rutrum=in&nulla=quam&tellus=fringilla&in=rhoncus&sagittis=mauris&dui=enim&vel=leo&nisl=rhoncus&duis=sed&ac=vestibulum&nibh=sit&fusce=amet",
-      "description": "Repair of symblepharon with free graft"
-    },
-    {
-      "title": "Irrigation of eye",
-      "link": "http://purevolume.com/cursus.json?sapien=dapibus&iaculis=duis&congue=at&vivamus=velit&metus=eu&arcu=est&adipiscing=congue&molestie=elementum&hendrerit=in&at=hac&vulputate=habitasse&vitae=platea&nisl=dictumst&aenean=morbi&lectus=vestibulum&pellentesque=velit&eget=id&nunc=pretium&donec=iaculis&quis=diam&orci=erat&eget=fermentum&orci=justo&vehicula=nec&condimentum=condimentum&curabitur=neque&in=sapien&libero=placerat&ut=ante&massa=nulla&volutpat=justo&convallis=aliquam&morbi=quis&odio=turpis&odio=eget&elementum=elit&eu=sodales&interdum=scelerisque&eu=mauris&tincidunt=sit&in=amet&leo=eros&maecenas=suspendisse&pulvinar=accumsan&lobortis=tortor&est=quis&phasellus=turpis&sit=sed&amet=ante&erat=vivamus&nulla=tortor&tempus=duis&vivamus=mattis&in=egestas&felis=metus&eu=aenean&sapien=fermentum&cursus=donec&vestibulum=ut&proin=mauris&eu=eget&mi=massa&nulla=tempor&ac=convallis&enim=nulla&in=neque&tempor=libero&turpis=convallis&nec=eget&euismod=eleifend&scelerisque=luctus&quam=ultricies&turpis=eu&adipiscing=nibh&lorem=quisque&vitae=id",
-      "description": "Other soft tissue x-ray of face, head, and neck"
-    },
-    {
-      "title": "Endoscopic control of gastric or duodenal bleeding",
-      "link": "http://zimbio.com/integer.xml?id=vel&mauris=accumsan&vulputate=tellus&elementum=nisi&nullam=eu",
-      "description": "Lengthening procedure on one extraocular muscle"
-    }
-  ]
-}, {
-  "productivity": [
-    {
-      "title": "Removal of carotid sinus stimulation device, total system",
-      "link": "http://github.com/curabitur/at/ipsum/ac/tellus.aspx?maecenas=dui&ut=vel&massa=nisl&quis=duis&augue=ac&luctus=nibh&tincidunt=fusce&nulla=lacus&mollis=purus&molestie=aliquet&lorem=at&quisque=feugiat&ut=non&erat=pretium&curabitur=quis&gravida=lectus&nisi=suspendisse&at=potenti&nibh=in&in=eleifend&hac=quam&habitasse=a&platea=odio&dictumst=in&aliquam=hac&augue=habitasse&quam=platea&sollicitudin=dictumst&vitae=maecenas&consectetuer=ut&eget=massa&rutrum=quis&at=augue&lorem=luctus&integer=tincidunt&tincidunt=nulla&ante=mollis&vel=molestie&ipsum=lorem&praesent=quisque&blandit=ut&lacinia=erat&erat=curabitur&vestibulum=gravida&sed=nisi&magna=at&at=nibh&nunc=in&commodo=hac&placerat=habitasse&praesent=platea&blandit=dictumst&nam=aliquam&nulla=augue&integer=quam&pede=sollicitudin&justo=vitae&lacinia=consectetuer&eget=eget&tincidunt=rutrum&eget=at&tempus=lorem&vel=integer&pede=tincidunt&morbi=ante&porttitor=vel&lorem=ipsum&id=praesent&ligula=blandit&suspendisse=lacinia&ornare=erat&consequat=vestibulum&lectus=sed&in=magna&est=at&risus=nunc&auctor=commodo",
-      "description": "Other diagnostic procedures on oral cavity"
-    },
-    {
-      "title": "Arthrotomy for removal of prosthesis without replacement, other specified sites",
-      "link": "http://simplemachines.org/sodales/scelerisque/mauris/sit/amet/eros.json?vitae=lacus&nisl=curabitur&aenean=at&lectus=ipsum&pellentesque=ac&eget=tellus&nunc=semper&donec=interdum&quis=mauris&orci=ullamcorper&eget=purus&orci=sit&vehicula=amet&condimentum=nulla&curabitur=quisque&in=arcu&libero=libero&ut=rutrum&massa=ac&volutpat=lobortis&convallis=vel&morbi=dapibus&odio=at&odio=diam&elementum=nam&eu=tristique",
-      "description": "Injection of locally-acting therapeutic substance into peritoneal cavity"
-    },
-    {
-      "title": "Cisternal puncture",
-      "link": "https://merriam-webster.com/dui/vel/sem/sed.json?porttitor=non&lacus=mi&at=integer&turpis=ac&donec=neque&posuere=duis&metus=bibendum&vitae=morbi&ipsum=non&aliquam=quam&non=nec&mauris=dui&morbi=luctus&non=rutrum&lectus=nulla&aliquam=tellus&sit=in&amet=sagittis&diam=dui&in=vel&magna=nisl&bibendum=duis&imperdiet=ac&nullam=nibh&orci=fusce&pede=lacus&venenatis=purus&non=aliquet&sodales=at&sed=feugiat&tincidunt=non&eu=pretium&felis=quis&fusce=lectus&posuere=suspendisse&felis=potenti&sed=in&lacus=eleifend&morbi=quam&sem=a&mauris=odio&laoreet=in&ut=hac&rhoncus=habitasse&aliquet=platea&pulvinar=dictumst&sed=maecenas&nisl=ut&nunc=massa&rhoncus=quis&dui=augue&vel=luctus&sem=tincidunt&sed=nulla&sagittis=mollis&nam=molestie&congue=lorem&risus=quisque&semper=ut&porta=erat&volutpat=curabitur&quam=gravida&pede=nisi&lobortis=at&ligula=nibh&sit=in&amet=hac&eleifend=habitasse&pede=platea&libero=dictumst",
-      "description": "Abdominoperineal resection of the rectum, not otherwise specified"
-    },
-    {
-      "title": "Other operations on pancreas",
-      "link": "http://wired.com/id/sapien/in.json?duis=parturient&aliquam=montes&convallis=nascetur&nunc=ridiculus&proin=mus&at=etiam&turpis=vel&a=augue&pede=vestibulum&posuere=rutrum&nonummy=rutrum&integer=neque&non=aenean&velit=auctor&donec=gravida&diam=sem&neque=praesent&vestibulum=id&eget=massa&vulputate=id&ut=nisl&ultrices=venenatis&vel=lacinia&augue=aenean&vestibulum=sit&ante=amet&ipsum=justo&primis=morbi&in=ut&faucibus=odio&orci=cras&luctus=mi&et=pede&ultrices=malesuada&posuere=in&cubilia=imperdiet&curae=et&donec=commodo&pharetra=vulputate&magna=justo&vestibulum=in&aliquet=blandit&ultrices=ultrices&erat=enim&tortor=lorem&sollicitudin=ipsum",
-      "description": "Microscopic examination of specimen from ear, nose, throat, and larynx, toxicology"
-    },
-    {
-      "title": "Removal of internal biventricular heart replacement system",
-      "link": "http://com.com/orci/pede/venenatis/non/sodales/sed.xml?quam=amet&pharetra=turpis&magna=elementum&ac=ligula&consequat=vehicula&metus=consequat&sapien=morbi&ut=a&nunc=ipsum&vestibulum=integer&ante=a&ipsum=nibh&primis=in&in=quis&faucibus=justo&orci=maecenas&luctus=rhoncus&et=aliquam&ultrices=lacus&posuere=morbi&cubilia=quis&curae=tortor&mauris=id&viverra=nulla&diam=ultrices&vitae=aliquet&quam=maecenas&suspendisse=leo&potenti=odio&nullam=condimentum&porttitor=id&lacus=luctus&at=nec&turpis=molestie&donec=sed&posuere=justo&metus=pellentesque&vitae=viverra&ipsum=pede&aliquam=ac&non=diam&mauris=cras&morbi=pellentesque&non=volutpat&lectus=dui&aliquam=maecenas&sit=tristique&amet=est&diam=et&in=tempus&magna=semper&bibendum=est&imperdiet=quam&nullam=pharetra&orci=magna&pede=ac&venenatis=consequat&non=metus&sodales=sapien&sed=ut&tincidunt=nunc&eu=vestibulum&felis=ante&fusce=ipsum&posuere=primis&felis=in&sed=faucibus",
-      "description": "Incision or excision of congenital septum of uterus"
-    }
-  ]
-}]
+]
