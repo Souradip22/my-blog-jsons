@@ -5,8 +5,8 @@
   "lastUpdate": "April 5, 2024",
   "data": [
     {
-        "id": 4,
-        "certificateName": "Cloud Digital Leader",
+        "id": 6,
+        "certificateName": "Google Cloud Digital Leader",
         "description": "Google cloud certified cloud digital leader",
         "fromDate": "2024",
         "toDate": "2027",
@@ -15,7 +15,7 @@
         "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
     },
     {
-        "id": 3,
+        "id": 5,
         "certificateName": "Reactive Programming",
         "description": "using Project Reactor",
         "fromDate": "2023",
@@ -25,24 +25,44 @@
         "logo":"https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
     },
     {
-        "id": 2,
+        "id": 4,
         "certificateName": "GitHub Copilot",
         "description": "Use AI to write code for you!",
         "fromDate": "2023",
         "toDate": "",
         "provider": "Udemy",
         "link":"https://www.udemy.com/certificate/UC-6adb6ba0-af1d-4544-957c-b2166b23e9d0/",
-        "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
+        "logo":"https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
     },
     {
-        "id": 1,
+        "id": 3,
         "certificateName": "ChatGPT for Programmers",
         "description": "ChatGPT for Programmers: Build Python Apps in Seconds",
         "fromDate": "2023",
         "toDate": "",
         "provider": "Udemy",
         "link":"https://www.udemy.com/certificate/UC-79db66e0-354e-483a-a8eb-e0af995acca4/",
-        "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
+        "logo":"https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+    },
+    {
+        "id": 2,
+        "certificateName": "Champion Award",
+        "description": "performance award",
+        "fromDate": "2021",
+        "toDate": "",
+        "provider": "Dassault Systemes",
+        "link":"https://drive.google.com/file/d/1gp38aD2zkhkiR-4HUZ6qIW7PzjqP_3e-/view",
+        "logo":""
+    },
+    {
+        "id": 1,
+        "certificateName": "Frontend development",
+        "description": "8 weeks program",
+        "fromDate": "2020",
+        "toDate": "",
+        "provider": "Wipro",
+        "link":"https://drive.google.com/file/d/1R9B2zshT-ThAScSnI7rtaU-E4IjNy9gH/view",
+        "logo":"https://www.wipro.com/content/dam/nexus/staticsites/homepage/header/Wipro_Primary%20Logo_Color_RGB.svg"
     }
     
   ]
