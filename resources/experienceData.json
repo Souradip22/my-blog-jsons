@@ -1,0 +1,58 @@
+{
+  "title": "Education & Experience",
+  "description":
+    "Drawing from a diverse educational background and hands-on experience in Software Engineering field, I bring a dynamic perspective to every project.",
+  "lastUpdate": "April 5, 2024",
+  "data": [
+    {
+        "id": 5,
+        "companyName": "Grid Dynamics",
+        "description": "Grid Dynamics is a leading provider of technology consulting, agile co-creation, and scalable engineering and data science services for Fortune 1000 corporations undergoing digital transformation.",
+        "fromDate": "2021",
+        "toDate": "2023",
+        "location": "Remote",
+        "designation": "Software Engineer",
+        "type": "company"
+    },
+    {
+        "id": 4,
+        "companyName": "Dassault Systèmes",
+        "description": "Dassault Systèmes is a European multinational software corporation which develops software for 3D product design, simulation, manufacturing and other 3D related products.",
+        "fromDate": "2021",
+        "toDate": "2023",
+        "location": "Bangalore, India.",
+        "designation": "Research And Development Specialist",
+        "type": "company"
+    },
+    {
+        "id": 3,
+        "companyName": "Wipro",
+        "description": "Wipro is an Indian multinational corporation that provides information technology, consultant and business process services. It is one of the leading Big Tech companies.",
+        "fromDate": "2018",
+        "toDate": "2021",
+        "location": "Bangalore, India.",
+        "designation": "Senior Software Developer",
+        "type": "company"
+    },
+    {
+        "id": 2,
+        "companyName": "Engineering",
+        "description": "The Academy of Technology or AOT is a self-financed undergraduate engineering college.",
+        "fromDate": "2014",
+        "toDate": "2018",
+        "location": "West Bengal, India.",
+        "designation": "Bachelor Of Technology",
+        "type": "school"
+    },
+    {
+        "id": 1,
+        "companyName": "Bankura Zilla School",
+        "description": "Pursued my higher secondary education at Bankura Zilla School, focusing on mathematics and science subjects",
+        "fromDate": "2014",
+        "toDate": "2012",
+        "location": "West Bengal, India.",
+        "designation": "Higher Secondary School",
+        "type": "school"
+    }
+  ]
+}
