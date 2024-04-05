@@ -36,12 +36,12 @@
     },
     {
         "id": 2,
-        "companyName": "Engineering",
+        "companyName": "Academy of Technology",
         "description": "The Academy of Technology or AOT is a self-financed undergraduate engineering college.",
         "fromDate": "2014",
         "toDate": "2018",
         "location": "West Bengal, India.",
-        "designation": "Bachelor Of Technology",
+        "designation": "Engineering",
         "type": "school"
     },
     {
