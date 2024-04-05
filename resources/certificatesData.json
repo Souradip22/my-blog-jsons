@@ -1,0 +1,49 @@
+{
+  "title": "Certificates",
+  "description":
+    "Different certificates that I obtained",
+  "lastUpdate": "April 5, 2024",
+  "data": [
+    {
+        "id": 4,
+        "certificateName": "Cloud Digital Leader",
+        "description": "Google cloud certified cloud digital leader",
+        "fromDate": "2024",
+        "toDate": "2027",
+        "provider": "Google Cloud",
+        "link":"https://www.credential.net/dc291cd9-ce97-4316-ab4e-fa97fddd1520",
+        "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
+    },
+    {
+        "id": 3,
+        "certificateName": "Reactive Programming",
+        "description": "using Project Reactor",
+        "fromDate": "2023",
+        "toDate": "",
+        "provider": "Udemy",
+        "link":"https://www.udemy.com/certificate/UC-ca7f2ecd-fa54-4988-af62-d274e87a60c1/",
+        "logo":"https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+    },
+    {
+        "id": 2,
+        "certificateName": "GitHub Copilot",
+        "description": "Use AI to write code for you!",
+        "fromDate": "2023",
+        "toDate": "",
+        "provider": "Udemy",
+        "link":"https://www.udemy.com/certificate/UC-6adb6ba0-af1d-4544-957c-b2166b23e9d0/",
+        "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
+    },
+    {
+        "id": 1,
+        "certificateName": "ChatGPT for Programmers",
+        "description": "ChatGPT for Programmers: Build Python Apps in Seconds",
+        "fromDate": "2023",
+        "toDate": "",
+        "provider": "Udemy",
+        "link":"https://www.udemy.com/certificate/UC-79db66e0-354e-483a-a8eb-e0af995acca4/",
+        "logo":"https://templates.images.credential.net/16601179376516142147983414073734.png"
+    }
+    
+  ]
+}
